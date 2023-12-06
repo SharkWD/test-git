@@ -1,1 +1,3 @@
 Sub text file
+
+New text from new-features branch
