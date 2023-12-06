@@ -1,3 +1,7 @@
 Sub text file
 
 New text from new-features branch
+
+Этот файл изменен на локальном компьютете 
+в ветке new-feature. 
+В момент изменения этой ветки нет на удаленном репозитории.
